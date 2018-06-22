@@ -5,7 +5,7 @@
     brew install swig
   
 ## Pre-Setup
-
+    $ bash download.sh
 Build and install SphinxBase  
   
     $ cd sphinxbase  
